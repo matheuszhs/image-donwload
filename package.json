@@ -1,0 +1,16 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "salvarImagens.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html2canvas": "^1.0.0-rc.5",
+    "image-downloader": "^3.4.2",
+    "jspdf": "^1.5.3"
+  }
+}
